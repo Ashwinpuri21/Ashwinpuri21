@@ -55,10 +55,6 @@
 
 
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
 
 
 
@@ -69,47 +65,7 @@
 
 
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
 
-
-## <div><h3><img src="https://github.com/user-attachments/assets/2b945ead-ec19-4428-bd51-4e3979494969" width = 30px height = 40px> Graph Activity </h3></div>
-
-<table width="100">
-  <tr border="0">
-    <td align='center' width="1010">
-      <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=anshull-rajput&theme=github-dark&hide_border=true" img alt="Hood's Activity Graph"/>
-    </td>
-  </tr>
-</table>
-
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-### 🐍 *This Snake is Eating my Contributions 😭😭* 
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-## 🌐 *Connect with Me*
-<p align="center">
-  <a href="mailto:anshulrajput262006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-  <a href="https://www.linkedin.com/in/anshull-rajput"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://instagram.com/anshull_rajput_"><img src="https://skillicons.dev/icons?i=instagram"height="45"/></a>
-  <a href="https://api.whatsapp.com/send?phone=919238916565"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="50"/></a>
-  
-</p>
 
 <h3 align="center">⭐ If you like my work, please consider giving a star!</h3>
 
